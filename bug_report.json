@@ -1,1 +1,10 @@
-
+{
+  "ID": 1,
+  "Severity": "Minor",
+  "Environment": "Win 10 HOME, Chrome 112",
+  "Title": "Text \"By creating an account\" in Pop-up registration window is displayed in English after changing German language",
+  "STR": "1. Navigate to best_platform_for_sale.com 2. Select language DE 3. Click on the button \"Anmeldung\"",
+  "ER": "Text \"By creating an account\" is displayed in German language",
+  "AR": "Text \"By creating an account\" is displayed in English after changing German language",
+  "attachment": "Link"
+}
